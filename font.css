@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'The-Hashtag';
+    src: url('The-Hashtag.eot');
+    src: url('The-Hashtag.eot?#iefix') format('embedded-opentype'),
+         url('The-Hashtag.woff2') format('woff2'),
+         url('The-Hashtag.woff') format('woff'),
+         url('The-Hashtag.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
