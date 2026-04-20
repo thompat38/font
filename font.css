@@ -1,10 +1,7 @@
 @font-face {
-    font-family: 'The-Hashtag';
-    src: url('https://raw.githubusercontent.com/thompat38/font/main/The-Hashtag.eot');
-    src: url('https://raw.githubusercontent.com/thompat38/font/main/The-Hashtag.eot?#iefix') format('embedded-opentype'),
-         url('https://raw.githubusercontent.com/thompat38/font/main/The-Hashtag.woff2') format('woff2'),
-         url('https://raw.githubusercontent.com/thompat38/font/main/The-Hashtag.woff') format('woff'),
-         url('https://raw.githubusercontent.com/thompat38/font/main/The-Hashtag.otf') format('opentype');
+    font-family: 'The Hashtag';
+    src: url('https://cdn.jsdelivr.net/gh/thompat38/font@main/The-Hashtag.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/thompat38/font@main/The-Hashtag.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
